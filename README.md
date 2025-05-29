@@ -1,3 +1,4 @@
 # Currency-Converter
-Currency converter is a tool used to convert one country’s currency to another. In this project by the knowledge of usage of currency converter a program is designed in c language. 
+The Currency Converter project is a C language-based application designed to convert one country’s currency into another using predefined exchange rates. This tool allows users to input an amount, choose a source currency, and select a target currency to receive the converted value. The program uses basic C programming constructs such as functions, conditional statements, loops, and switch-case logic to handle multiple conversion scenarios. It features a simple menu-driven interface and ensures accurate conversion by applying appropriate arithmetic operations based on the selected currencies. Through this project, I strengthened my understanding of user input handling, control flow, and modular programming, while also gaining practical insight into how real-world financial applications like currency converters operate.
+
            
